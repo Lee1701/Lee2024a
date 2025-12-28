@@ -15,4 +15,4 @@ There are a total of 1,112 sequence-based EDDY models in 5 model families: 6 mod
 Using resources on PSC Bridges-2 Regular Memory (~100,000 CPU SUs), we successfully completed predicting ~31.8 million binding affinities for ~51,000 small molecules from the Therma Fisher Maybridge Screening Library targeting ASGPR by our 622 sequence-based EDDY models. Due to the limited resources, we used 10 D3 alternative models instead of 500 D3 original models. Full predictions by the 500 D3 models were later completed on the McCleary cluster at the Yale Center for Research Computing.
 
 [Contact]<br>
-- William H. Lee, PhD: ho-joon.lee%at%yale.edu
+William H. Lee, PhD: ho-joon.lee%at%yale.edu
