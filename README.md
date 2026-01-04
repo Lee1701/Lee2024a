@@ -8,7 +8,8 @@ This repository contains results from the NAIRR Pilot project,<br>
 https://nairrpilot.org/projects/awarded?_requestNumber=NAIRR240089
 
 The major goal of the project was to carry out virtual screening of a large-scale compound library to identify high-affinity ASGPR ligands to improve MoDEs, molecular degraders of extracellular proteins, by our pretrained AI models (EDDY),<br>
-https://pubs.acs.org/doi/10.1021/acs.jcim.4c01116
+https://pubs.acs.org/doi/10.1021/acs.jcim.4c01116<br>
+https://github.com/Lee1701/Lee2023a
 
 There are a total of 1,112 sequence-based EDDY models in 5 model families: 6 models in D1 family, 6 in D2, 300 in D1F, 300 in D2F, and 500 in D3.
 
